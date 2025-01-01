@@ -1,12 +1,12 @@
 {
   "/": "https://ligmatv.is-a.dev/links.html",
-  "Website": "https://ligmatv.is-a.dev/",
-  "GitHub": "https://github.com/LIGMATV",
-  "Bluesky": "https://bsky.app/profile/ligmatv.is-a.dev",
-  "Codepen": "https://codepen.io/LIGMATV",
-  "Devto": "https://dev.to/ligmatv",
-  "Wakatime": "https://wakatime.com/@85b9d580-b10f-4b9e-a6bf-071472cd4dba",
-  "11tyBeer": "https://11ty-beer.vercel.app/",
-  "Boredown": "https://github.com/LIGMATV/boredown",
-  "GMXcss": "https://github.com/LIGMATV/gmx.css"
+  "website": "https://ligmatv.is-a.dev/",
+  "github": "https://github.com/LIGMATV",
+  "bluesky": "https://bsky.app/profile/ligmatv.is-a.dev",
+  "codepen": "https://codepen.io/LIGMATV",
+  "devto": "https://dev.to/ligmatv",
+  "wakatime": "https://wakatime.com/@85b9d580-b10f-4b9e-a6bf-071472cd4dba",
+  "11tybeer": "https://11ty-beer.vercel.app/",
+  "boredown": "https://github.com/LIGMATV/boredown",
+  "gmxcss": "https://github.com/LIGMATV/gmx.css"
 }
